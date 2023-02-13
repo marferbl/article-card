@@ -12,7 +12,7 @@
 </template>
 
 <script lang="ts">
-import OnClickOutside from "./OnClickOutside";
+import OnClickOutside from "./OnClickOutside.vue";
 import { defineComponent } from "vue";
 
 export default defineComponent({
