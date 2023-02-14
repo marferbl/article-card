@@ -20,12 +20,6 @@ export default defineComponent({
   components: {
     OnClickOutside,
   },
-  props: {
-    item: {
-      type: Object,
-      default: null,
-    },
-  },
   data() {
     return {
       open: false,
